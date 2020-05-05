@@ -10,13 +10,17 @@ To run the scipts you will need following libaries:
   
   
   In the project directory you will find:    
-  * Jupyter Notebook files with the anyalysis  
+  * Jupyter Notebook files with the analysis  
   * .csv file with the data for analysis
   
   ## Data
   
   The analyzed data includes Chocolate Bar Ratings dataset from kaggle (https://www.kaggle.com/rtatman/chocolate-bar-ratings). I want to thank authors for providing this data set. 
   
-  ##Analysis
-  
-  Analysis with results is available at the following link:
+  ##  Goal
+   
+   In this project I wanted to analyze some factors related to the quality of chocolate using data analysis. 
+   
+   ## Results
+   Every chocolate is delicious independelty of where it was produced. :-) 
+   However, if you are interested in more details you can find it at the following link:
