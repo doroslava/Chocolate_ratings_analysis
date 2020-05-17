@@ -1,6 +1,6 @@
-# Udacity_Assignment_1: Write a Data Science Blog Post
+# Chocolate ratings Analysis
 
-This is Assignment for Udacity Data Scientist Nanodegree.  
+This is Assignment for Udacity Data Scientist Nanodegree: : Write a Data Science Blog Post  
 
 
 To run the scipts you will need following libaries:
